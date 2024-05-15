@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\TasksCairoUni\TasksCairoUni\bin\Debug\net8.0\TasksCairoUni.exe
+C:\Users\Administrator\source\repos\TasksCairoUni\TasksCairoUni\bin\Debug\net8.0\TasksCairoUni.deps.json
+C:\Users\Administrator\source\repos\TasksCairoUni\TasksCairoUni\bin\Debug\net8.0\TasksCairoUni.runtimeconfig.json
+C:\Users\Administrator\source\repos\TasksCairoUni\TasksCairoUni\bin\Debug\net8.0\TasksCairoUni.dll
+C:\Users\Administrator\source\repos\TasksCairoUni\TasksCairoUni\bin\Debug\net8.0\TasksCairoUni.pdb
+C:\Users\Administrator\source\repos\TasksCairoUni\TasksCairoUni\obj\Debug\net8.0\TasksCairoUni.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\TasksCairoUni\TasksCairoUni\obj\Debug\net8.0\TasksCairoUni.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\TasksCairoUni\TasksCairoUni\obj\Debug\net8.0\TasksCairoUni.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\TasksCairoUni\TasksCairoUni\obj\Debug\net8.0\TasksCairoUni.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\TasksCairoUni\TasksCairoUni\obj\Debug\net8.0\TasksCairoUni.dll
+C:\Users\Administrator\source\repos\TasksCairoUni\TasksCairoUni\obj\Debug\net8.0\refint\TasksCairoUni.dll
+C:\Users\Administrator\source\repos\TasksCairoUni\TasksCairoUni\obj\Debug\net8.0\TasksCairoUni.pdb
+C:\Users\Administrator\source\repos\TasksCairoUni\TasksCairoUni\obj\Debug\net8.0\TasksCairoUni.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\TasksCairoUni\TasksCairoUni\obj\Debug\net8.0\ref\TasksCairoUni.dll
